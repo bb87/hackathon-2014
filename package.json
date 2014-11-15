@@ -1,0 +1,26 @@
+{
+  "name": "hackathon",
+  "version": "0.0.1",
+  "description": "NBCU HACKATHON 2014",
+  "main": "public/index.html",
+  "window": {
+    "width": 800,
+    "height": 600,
+    "frame": true
+  },
+  "scripts": {
+    "test": "mocha --reporter spec",
+    "build": "mkdir -p ./public/css && mkdir -p ./public/js && npm run build-coffee && npm run build-server && npm run build-client-stylus",
+    "build-coffee": "./node_modules/.bin/coffee --compile --output public/js/ src/",
+    "build-server": "./node_modules/.bin/jade ./src/jade/index.jade && mv ./src/jade/index.html ./public/.",
+    "build-client-stylus": "./node_modules/.bin/stylus ./src/stylus/hackathon.styl && mv ./src/stylus/hackathon.css ./public/css/."
+  },
+  "keywords": [
+    "hackathon",
+    "node-webkit",
+    "science",
+    "excitement"
+  ],
+  "author": "Brekk Bockrath",
+  "license": "ISC"
+}
