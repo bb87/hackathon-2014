@@ -8,7 +8,6 @@ VideoModel = AmpersandModel.extend
         title: ['string', true, '']
         description: ['string', true, '']
     }
-    
 
     url: ()->
         return 'http://feed.media.theplatform.com/f/JStuSC/universalpicturesdm_hackathon'
