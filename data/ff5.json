@@ -1,0 +1,4172 @@
+{
+    "cards": {},
+    "externalIds": {
+        "mpxId": "278175811941",
+        "imdbId": "tt1596343",
+        "mpxGuid": "fastfivefeature",
+        "mpxPid": "3aX6txf_1X6W"
+    },
+    "uuid": "692e5796-ea3f-4446-ad7d-d0fefd9d6615",
+    "duration": 7843000,
+    "title": "Fast Five",
+    "isoStartDateUtc": "2014-11-14T23:00:00.000Z",
+    "startDateUtc": 1416006000000,
+    "timeline": {
+        "cards": {},
+        "events": [{
+            "in": 0,
+            "out": 165000,
+            "rcdbId": "EV4476686",
+            "cardRcdbId": "EX210194",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/54541700e4b003ee7bdcaf80"
+                },
+                "rcdbId": "EX210194",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Dominic's Fate",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/dbf66f0155c04017838072d3dd2d47f5.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "uuid": "54541700e4b003ee7bdcaf80",
+                    "objectType": "photos"
+                }
+            }
+        }, {
+            "in": 36036,
+            "out": 66000,
+            "rcdbId": "EV4475861",
+            "cardRcdbId": "EX209473",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "bios/544ad9b1e4b003ee7bdcadab"
+                },
+                "rcdbId": "EX209473",
+                "source": "universal_pictures",
+                "type": "CharacterBio",
+                "object": {
+                    "bio": "Auto-mechanic, street-racer & ex-con only begin to describe Dominic Toretto. Loyal to his friends; ruthless to his enemies, Dom is infamous for his daring high-speed heists & escapes. Here, Dom is sentenced for his actions that occurred during \"Fast & Furious\".",
+                    "characterName": "Dominic Toretto",
+                    "title": "Dossier",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/6a685b5b42ad45b7ba489d48b7574ef4.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "talentName": "Vin Diesel",
+                    "uuid": "544ad9b1e4b003ee7bdcadab",
+                    "objectType": "bios"
+                }
+            }
+        }, {
+            "in": 36036,
+            "out": 79000,
+            "rcdbId": "EV4476354",
+            "cardRcdbId": "EX209904",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545037a6e4b003ee7bdcaedd"
+                },
+                "rcdbId": "EX209904",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "imdbId": "nm0004874",
+                    "role": "Dominic Toretto",
+                    "title": "Actor",
+                    "uuid": "545037a6e4b003ee7bdcaedd",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/6a685b5b42ad45b7ba489d48b7574ef4.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "link": {
+                        "url": "http://www.google.com",
+                        "text": "Find out more at Telemundo.com"
+                    },
+                    "actorName": "Vin Diesel",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 41241,
+            "out": 92000,
+            "rcdbId": "EV4476353",
+            "cardRcdbId": "EX209903",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545037a5e4b011b65cb3181d"
+                },
+                "rcdbId": "EX209903",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Jordana Brewster",
+                    "imdbId": "nm0108287",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/b76e52a02bb243bca5c96ff5543995eb.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "Mia Toretto",
+                    "uuid": "545037a5e4b011b65cb3181d",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 41241,
+            "out": 103000,
+            "rcdbId": "EV4476352",
+            "cardRcdbId": "EX209902",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545037a5e4b011b65cb3181e"
+                },
+                "rcdbId": "EX209902",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Paul Walker",
+                    "imdbId": "nm0908094",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/b76e52a02bb243bca5c96ff5543995eb.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "Brian O'Conner",
+                    "uuid": "545037a5e4b011b65cb3181e",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 57757,
+            "out": 80016,
+            "rcdbId": "EV4476539",
+            "cardRcdbId": "EX210062",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "pointsofinterest/54529995e4b003ee7bdcaf24"
+                },
+                "rcdbId": "EX210062",
+                "source": "universal_pictures",
+                "type": "LocalFinder",
+                "object": {
+                    "title": "Where Are They?",
+                    "messageDetail": "The prison bus is driving along Hwy 246 from Buellton to Lompoc. This is the preferred route, rather than along the more popular Hwy 101 that runs along the Pacific coastline.",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/3bdd94e8f35445b0a08cd839378d13f5.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "pointsOfInterest": [{
+                        "latitude": "34.639733",
+                        "name": "The Back Road to Lompoc",
+                        "longitude": "-120.298988",
+                        "address": "Hwy 246 bet. Buellton & Lompoc"
+                    }],
+                    "uuid": "54529995e4b003ee7bdcaf24",
+                    "objectType": "pointsofinterest"
+                }
+            }
+        }, {
+            "in": 63730,
+            "out": 97664,
+            "rcdbId": "EV4476592",
+            "cardRcdbId": "EX210106",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "productappearances/5453d2cbe4b011b65cb3188e"
+                },
+                "rcdbId": "EX210106",
+                "source": "universal_pictures",
+                "type": "ProductAppearance",
+                "object": {
+                    "model": "NSX, 2003 Model",
+                    "brand": "Acura",
+                    "title": "Vehicle",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/0b04d96bb1d74e698cacc31f8fbdb5f6.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "category": "Sports Car",
+                    "uuid": "5453d2cbe4b011b65cb3188e",
+                    "objectType": "productappearances"
+                }
+            }
+        }, {
+            "in": 63730,
+            "out": 105839,
+            "rcdbId": "EV4476593",
+            "cardRcdbId": "EX210107",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "productappearances/5453d2cbe4b003ee7bdcaf46"
+                },
+                "rcdbId": "EX210107",
+                "source": "universal_pictures",
+                "type": "ProductAppearance",
+                "object": {
+                    "model": "Charger, 1970 Model",
+                    "brand": "Dodge",
+                    "title": "Vehicle",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/746cd190af0442dbb65be0ddfb1d2632.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "category": "Muscle Car",
+                    "uuid": "5453d2cbe4b003ee7bdcaf46",
+                    "objectType": "productappearances"
+                }
+            }
+        }, {
+            "in": 72505,
+            "out": 112979,
+            "rcdbId": "EV4476591",
+            "cardRcdbId": "EX210105",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "polls/5453d0bae4b003ee7bdcaf43"
+                },
+                "rcdbId": "EX210105",
+                "source": "universal_pictures",
+                "type": "PollInstant",
+                "object": {
+                    "title": "Poll",
+                    "services": {
+                        "enableExMachina": true,
+                        "exMachina": {
+                            "initUrl": "http://backend.watchwith.playtotv.com/api/1/gatekeeper/init",
+                            "interactionId": "5453d0bae4b08b167f0cc09d"
+                        },
+                        "enablePolldaddy": false
+                    },
+                    "question": {
+                        "image": {
+                            "url": "http://d3jubmq7nwu33f.cloudfront.net/images/64ddc74c4b4e474a8510540483c2605f.jpg",
+                            "width": 704,
+                            "height": 480,
+                            "type": "JPG"
+                        },
+                        "text": "Brian is driving the Charger; Mia the Acura. So who's driving the Trans Am?"
+                    },
+                    "answers": [{
+                        "text": "Roman",
+                        "response": "If you look closely at the car, you can see two heads in the front seats."
+                    }, {
+                        "text": "Tego & Rico",
+                        "response": "If you look closely at the car, you can see two heads in the front seats."
+                    }, {
+                        "text": "Tej",
+                        "response": "If you look closely at the car, you can see two heads in the front seats."
+                    }, {
+                        "text": "Han",
+                        "response": "If you look closely at the car, you can see two heads in the front seats."
+                    }],
+                    "uuid": "5453d0bae4b003ee7bdcaf43",
+                    "objectType": "polls"
+                }
+            }
+        }, {
+            "in": 72505,
+            "out": 112979,
+            "rcdbId": "EV4478025",
+            "cardRcdbId": "EX211315",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "trivia/54679fb3e4b011b65cb31c3f"
+                },
+                "rcdbId": "EX211315",
+                "source": "universal_pictures",
+                "type": "Trivia",
+                "object": {
+                    "title": "Quiz",
+                    "question": {
+                        "image": {
+                            "url": "http://d3jubmq7nwu33f.cloudfront.net/images/64ddc74c4b4e474a8510540483c2605f.jpg",
+                            "width": 704,
+                            "height": 480,
+                            "type": "JPG"
+                        },
+                        "text": "Brian is driving the Charger; Mia the Acura. So who's driving the Trans Am?"
+                    },
+                    "answers": [{
+                        "text": "Roman",
+                        "response": "If you look closely at the car, you can see two heads in the front seats."
+                    }, {
+                        "text": "Tego & Rico",
+                        "response": "If you look closely at the car, you can see two heads in the front seats."
+                    }, {
+                        "text": "Tej",
+                        "response": "If you look closely at the car, you can see two heads in the front seats."
+                    }, {
+                        "text": "Han",
+                        "response": "If you look closely at the car, you can see two heads in the front seats."
+                    }],
+                    "objectType": "trivia",
+                    "uuid": "54679fb3e4b011b65cb31c3f"
+                }
+            }
+        }, {
+            "in": 73006,
+            "out": 112979,
+            "rcdbId": "EV4476545",
+            "cardRcdbId": "EX210065",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "trivia/5452aab4e4b003ee7bdcaf26"
+                },
+                "rcdbId": "EX210065",
+                "source": "universal_pictures",
+                "type": "Trivia",
+                "object": {
+                    "title": "Name That Ride",
+                    "answers": [{
+                        "correct": true,
+                        "text": "Acura NSX",
+                        "response": "Bam, you got it! Outside the U.S. it was sold under the Honda brand."
+                    }, {
+                        "correct": false,
+                        "text": "Mitsubishi 3000 GT",
+                        "response": "Nope, it's a Honda/Acura NSX"
+                    }, {
+                        "correct": false,
+                        "text": "Acura Integra",
+                        "response": "Nope, it's a Honda/Acura NSX"
+                    }],
+                    "question": {
+                        "image": {
+                            "url": "http://d3jubmq7nwu33f.cloudfront.net/images/64ddc74c4b4e474a8510540483c2605f.jpg",
+                            "width": 704,
+                            "height": 480,
+                            "type": "JPG"
+                        },
+                        "text": "Mia is driving this sweet little number. What it is?"
+                    },
+                    "uuid": "5452aab4e4b003ee7bdcaf26",
+                    "objectType": "trivia"
+                }
+            }
+        }, {
+            "in": 122789,
+            "out": 130000,
+            "rcdbId": "EV4476547",
+            "cardRcdbId": "EX210067",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/5452b3efe4b003ee7bdcaf28"
+                },
+                "rcdbId": "EX210067",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Jay Jackson",
+                    "title": "Appearance",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/18eca74e053c4a65a0c03ff3ff5e3932.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "Field Reporter",
+                    "imdbId": "nm3085284",
+                    "objectType": "portrayalappearances",
+                    "uuid": "5452b3efe4b003ee7bdcaf28"
+                }
+            }
+        }, {
+            "in": 134634,
+            "out": 144000,
+            "rcdbId": "EV4476548",
+            "cardRcdbId": "EX210068",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/5452b3fbe4b011b65cb31873"
+                },
+                "rcdbId": "EX210068",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "imdbId": "nm0794688",
+                    "title": "Appearance",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/09332b1cbfec4beeb5c7439c68608618.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "actorName": "Kent Shocknek",
+                    "role": "News Anchor",
+                    "objectType": "portrayalappearances",
+                    "uuid": "5452b3fbe4b011b65cb31873"
+                }
+            }
+        }, {
+            "in": 166000,
+            "out": 465000,
+            "rcdbId": "EV4476688",
+            "cardRcdbId": "EX210196",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/54541773e4b003ee7bdcaf81"
+                },
+                "rcdbId": "EX210196",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Brian & Mia in Rio",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/de42dda4b4814609953823362408a98d.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "uuid": "54541773e4b003ee7bdcaf81",
+                    "objectType": "photos"
+                }
+            }
+        }, {
+            "in": 167000,
+            "out": 268368,
+            "rcdbId": "EV4476594",
+            "cardRcdbId": "EX210108",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "media/5453d6ede4b003ee7bdcaf49"
+                },
+                "rcdbId": "EX210108",
+                "source": "universal_pictures",
+                "type": "PurchaseMedia",
+                "object": {
+                    "featuredItem": "Cristo Redentor",
+                    "creators": [{
+                        "name": "Bryan Tyler"
+                    }],
+                    "featuredItemDetail": "from the \"Fast Five\" official score",
+                    "title": "Music",
+                    "uuid": "5453d6ede4b003ee7bdcaf49",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/442e11ec9f5f47a2a7322eacf8736d3d.jpg",
+                        "width": 350,
+                        "height": 350,
+                        "type": "JPG"
+                    },
+                    "releaseDate": "2011-04-26",
+                    "objectType": "media"
+                }
+            }
+        }, {
+            "in": 169702,
+            "out": 179913,
+            "rcdbId": "EV4476596",
+            "cardRcdbId": "EX210110",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "pointsofinterest/5453d6eee4b003ee7bdcaf4a"
+                },
+                "rcdbId": "EX210110",
+                "source": "universal_pictures",
+                "type": "LocalFinder",
+                "object": {
+                    "title": "Where?",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/c15bccbfcff44f528dad5c9dd2c66424.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "pointsOfInterest": [{
+                        "longitude": "-43.210514",
+                        "image": {
+                            "url": "http://d3jubmq7nwu33f.cloudfront.net/images/c15bccbfcff44f528dad5c9dd2c66424.jpg",
+                            "width": 704,
+                            "height": 480,
+                            "type": "JPG"
+                        },
+                        "latitude": "-22.951689",
+                        "name": "Cristo Redentor",
+                        "description": "Christ the Redeemer is an Art Deco statue of Jesus Christ in Rio de Janeiro, Brazil, created by French sculptor Paul Landowski and built by the engineer Heitor da Silva Costa Brazil in collaboration with the French engineer Albert Caquot.",
+                        "address": "Área de Proteção Ambiental Bairro de Santa Teresa, Rio de Janeiro, Brazil"
+                    }],
+                    "uuid": "5453d6eee4b003ee7bdcaf4a",
+                    "objectType": "pointsofinterest"
+                }
+            }
+        }, {
+            "in": 182682,
+            "out": 194394,
+            "rcdbId": "EV4476595",
+            "cardRcdbId": "EX210109",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "trivia/5453d6eee4b011b65cb31890"
+                },
+                "rcdbId": "EX210109",
+                "source": "universal_pictures",
+                "type": "Trivia",
+                "object": {
+                    "title": "Quiz",
+                    "question": {
+                        "image": {
+                            "url": "http://d3jubmq7nwu33f.cloudfront.net/images/690ae8051e224a59860a3e4d141cdd67.jpg",
+                            "width": 704,
+                            "height": 480,
+                            "type": "JPG"
+                        },
+                        "text": "What's that distinctive landmark that dominates Rio's harbor called?"
+                    },
+                    "answers": [{
+                        "correct": false,
+                        "text": "Banana Mountain",
+                        "response": "Wrong. It's called Sugarloaf Mountain."
+                    }, {
+                        "correct": true,
+                        "text": "Sugarloaf Mountain",
+                        "response": "Correct. In Portuguese it's called \"Pão de Açúcar.\""
+                    }, {
+                        "correct": false,
+                        "text": "Mount Sombrero",
+                        "response": "Wrong. It's called Sugarloaf Mountain."
+                    }],
+                    "objectType": "trivia",
+                    "uuid": "5453d6eee4b011b65cb31890"
+                }
+            }
+        }, {
+            "in": 198198,
+            "out": 228198,
+            "rcdbId": "EV4476597",
+            "cardRcdbId": "EX210111",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "productappearances/5453d941e4b003ee7bdcaf4b"
+                },
+                "rcdbId": "EX210111",
+                "source": "universal_pictures",
+                "type": "ProductAppearance",
+                "object": {
+                    "model": "Master Compressor Diving ‘Navy SEALs’ Automatic",
+                    "brand": "Jaeger-LeCoultre",
+                    "title": "Product",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/c1bb624523e3474da26e1025f8908256.png",
+                        "width": 652,
+                        "height": 936,
+                        "type": "PNG"
+                    },
+                    "category": "Wrist watch",
+                    "uuid": "5453d941e4b003ee7bdcaf4b",
+                    "objectType": "productappearances"
+                }
+            }
+        }, {
+            "in": 199365,
+            "out": 246346,
+            "rcdbId": "EV4476613",
+            "cardRcdbId": "EX210122",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "productappearances/5453dd13e4b011b65cb31892"
+                },
+                "rcdbId": "EX210122",
+                "source": "universal_pictures",
+                "type": "ProductAppearance",
+                "object": {
+                    "model": "GT-R Skyline, C10 series, 1971",
+                    "brand": "Nissan",
+                    "title": "Vehicle",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/af655edd2fa141da80150866b2b6acfb.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "category": "Sedan",
+                    "uuid": "5453dd13e4b011b65cb31892",
+                    "objectType": "productappearances"
+                }
+            }
+        }, {
+            "in": 270169,
+            "out": 464000,
+            "rcdbId": "EV4476612",
+            "cardRcdbId": "EX210121",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/5453dd13e4b011b65cb31891"
+                },
+                "rcdbId": "EX210121",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "imdbId": "nm0776580",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/125c1b0e20e64367b2a9d5b9b697b0ee.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "actorName": "Matt Schulze",
+                    "role": "Vince",
+                    "objectType": "portrayalappearances",
+                    "uuid": "5453dd13e4b011b65cb31891"
+                }
+            }
+        }, {
+            "in": 305305,
+            "out": 446379,
+            "rcdbId": "EV4476615",
+            "cardRcdbId": "EX210123",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "productappearances/5453f5e7e4b003ee7bdcaf50"
+                },
+                "rcdbId": "EX210123",
+                "source": "universal_pictures",
+                "type": "ProductAppearance",
+                "object": {
+                    "brand": "Brahma",
+                    "title": "Product",
+                    "model": "Chopp",
+                    "category": "Beer",
+                    "uuid": "5453f5e7e4b003ee7bdcaf50",
+                    "objectType": "productappearances"
+                }
+            }
+        }, {
+            "in": 317000,
+            "out": 403000,
+            "rcdbId": "EV4476611",
+            "cardRcdbId": "EX210120",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/5453dd13e4b003ee7bdcaf4e"
+                },
+                "rcdbId": "EX210120",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "uuid": "5453dd13e4b003ee7bdcaf4e",
+                    "role": "Rosa",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/f7f948d563704f26956564a7d03b60c5.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "actorName": "Jeirmarie Osorio",
+                    "imdbId": "nm4418188",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 349415,
+            "out": 379415,
+            "rcdbId": "EV4476616",
+            "cardRcdbId": "EX210124",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "messages/5453f5e8e4b003ee7bdcaf51"
+                },
+                "rcdbId": "EX210124",
+                "source": "universal_pictures",
+                "type": "Fact",
+                "object": {
+                    "title": "F&F Fact",
+                    "message": "The scars on Vince's arm occurred after a failed hijacking in the first \"Fast and Furious\" film. Brian called the medivac that saved his life.",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/1097f03668d042e69f5baf8df849333b.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "objectType": "messages",
+                    "uuid": "5453f5e8e4b003ee7bdcaf51"
+                }
+            }
+        }, {
+            "in": 465000,
+            "out": 495000,
+            "rcdbId": "EV4476331",
+            "cardRcdbId": "EX209885",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "messages/545014cbe4b011b65cb3180f"
+                },
+                "rcdbId": "EX209885",
+                "source": "universal_pictures",
+                "type": "ProductionNote",
+                "object": {
+                    "message": "Though ostensibly in Brazil, this scene was actually fimed in Rice, California.",
+                    "title": "Production Note",
+                    "messageDetail": "Rice is a tiny municipality east of Joshua Tree National Park in the Mojave Desert.",
+                    "uuid": "545014cbe4b011b65cb3180f",
+                    "objectType": "messages"
+                }
+            }
+        }, {
+            "in": 465000,
+            "out": 1048614,
+            "rcdbId": "EV4476687",
+            "cardRcdbId": "EX210195",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/54541701e4b011b65cb318be"
+                },
+                "rcdbId": "EX210195",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "The Train Heist",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/67170fd95f844449be97444c8f311277.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "uuid": "54541701e4b011b65cb318be",
+                    "objectType": "photos"
+                }
+            }
+        }, {
+            "in": 473806,
+            "out": 760000,
+            "rcdbId": "EV4476666",
+            "cardRcdbId": "EX210174",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545408a7e4b011b65cb318ac"
+                },
+                "rcdbId": "EX210174",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Jordana Brewster",
+                    "imdbId": "nm0108287",
+                    "title": "Appearance",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/e88cf1ee68bd4ab987323d34b9a19421.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "Mia Toretto",
+                    "uuid": "545408a7e4b011b65cb318ac",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 475007,
+            "out": 1048513,
+            "rcdbId": "EV4476667",
+            "cardRcdbId": "EX210175",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545408a7e4b003ee7bdcaf73"
+                },
+                "rcdbId": "EX210175",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Paul Walker",
+                    "imdbId": "nm0908094",
+                    "title": "Appearance",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/0180d4aa4aab4ead850390b2747d3a28.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "Brian O'Conner",
+                    "uuid": "545408a7e4b003ee7bdcaf73",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 505538,
+            "out": 535538,
+            "rcdbId": "EV4476330",
+            "cardRcdbId": "EX209884",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "messages/545014cbe4b003ee7bdcaed9"
+                },
+                "rcdbId": "EX209884",
+                "source": "universal_pictures",
+                "type": "Fact",
+                "object": {
+                    "message": "There are over 100 countries that do not have formal extradition treaties with the United States. But that doesn't mean that their local law enforcement won't arrest & deport you anyway.",
+                    "title": "Extradition",
+                    "uuid": "545014cbe4b003ee7bdcaed9",
+                    "objectType": "messages"
+                }
+            }
+        }, {
+            "in": 515681,
+            "out": 541240,
+            "rcdbId": "EV4476668",
+            "cardRcdbId": "EX210176",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/54540946e4b011b65cb318ae"
+                },
+                "rcdbId": "EX210176",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Pedro Garcia",
+                    "imdbId": "nm1537818",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/4b943cb78b2246a6a13e80898b756bc7.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "Conductor",
+                    "uuid": "54540946e4b011b65cb318ae",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 541741,
+            "out": 989688,
+            "rcdbId": "EV4476669",
+            "cardRcdbId": "EX210177",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "media/54540993e4b011b65cb318af"
+                },
+                "rcdbId": "EX210177",
+                "source": "universal_pictures",
+                "type": "PurchaseMedia",
+                "object": {
+                    "featuredItem": "Train Heist",
+                    "creators": [{
+                        "name": "Bryan Tyler"
+                    }],
+                    "featuredItemDetail": "from the \"Fast Five\" official score",
+                    "title": "Music",
+                    "uuid": "54540993e4b011b65cb318af",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/442e11ec9f5f47a2a7322eacf8736d3d.jpg",
+                        "width": 350,
+                        "height": 350,
+                        "type": "JPG"
+                    },
+                    "releaseDate": "2011-04-26",
+                    "objectType": "media"
+                }
+            }
+        }, {
+            "in": 544210,
+            "out": 625000,
+            "rcdbId": "EV4476679",
+            "cardRcdbId": "EX210187",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "productappearances/54540da2e4b003ee7bdcaf79"
+                },
+                "rcdbId": "EX210187",
+                "source": "universal_pictures",
+                "type": "ProductAppearance",
+                "object": {
+                    "brand": "FOX",
+                    "model": "4.4 Factory Series Bypass Piggyback Bypass Shock",
+                    "title": "Product",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/528d294f7ee74d0daeeaa9bcf8d7fbb4.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "category": "Automotive Accessories",
+                    "uuid": "54540da2e4b003ee7bdcaf79",
+                    "objectType": "productappearances"
+                }
+            }
+        }, {
+            "in": 637670,
+            "out": 687000,
+            "rcdbId": "EV4476680",
+            "cardRcdbId": "EX210188",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/54540da2e4b003ee7bdcaf7a"
+                },
+                "rcdbId": "EX210188",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Matt Schulze",
+                    "imdbId": "nm0776580",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/709c87a6059240bfb7f2dbc8436d7dba.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "Vince",
+                    "uuid": "54540da2e4b003ee7bdcaf7a",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 637670,
+            "out": 1048000,
+            "rcdbId": "EV4476677",
+            "cardRcdbId": "EX210185",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/54540da2e4b011b65cb318b4"
+                },
+                "rcdbId": "EX210185",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Vin Diesel",
+                    "imdbId": "nm0004874",
+                    "title": "Appearance",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/32b23b4e98cc44da847fb218701d870d.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "Dominic Toretto",
+                    "uuid": "54540da2e4b011b65cb318b4",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 654253,
+            "out": 944000,
+            "rcdbId": "EV4476678",
+            "cardRcdbId": "EX210186",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/54540da2e4b011b65cb318b5"
+                },
+                "rcdbId": "EX210186",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Michael Irby",
+                    "imdbId": "nm0409831",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/6a2166bfd6864ddc93eb6f1693fbaddd.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "Zizi",
+                    "uuid": "54540da2e4b011b65cb318b5",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 662561,
+            "out": 692561,
+            "rcdbId": "EV4476685",
+            "cardRcdbId": "EX210193",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "polls/5454154ce4b011b65cb318bb"
+                },
+                "rcdbId": "EX210193",
+                "source": "universal_pictures",
+                "type": "PollInstant",
+                "object": {
+                    "title": "Poll",
+                    "services": {
+                        "enableExMachina": true,
+                        "exMachina": {
+                            "initUrl": "http://backend.watchwith.playtotv.com/api/1/gatekeeper/init",
+                            "interactionId": "5454154be4b08b167f0cc0ee"
+                        },
+                        "enablePolldaddy": false
+                    },
+                    "question": {
+                        "text": "Why do you think Zizi called dibs on the GT 40?"
+                    },
+                    "answers": [{
+                        "text": "He's a Ford man"
+                    }, {
+                        "text": "The car holds secrets"
+                    }, {
+                        "text": "He's just bossy"
+                    }],
+                    "uuid": "5454154ce4b011b65cb318bb",
+                    "objectType": "polls"
+                }
+            }
+        }, {
+            "in": 667633,
+            "out": 687000,
+            "rcdbId": "EV4476681",
+            "cardRcdbId": "EX210189",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "productappearances/54540da2e4b011b65cb318b6"
+                },
+                "rcdbId": "EX210189",
+                "source": "universal_pictures",
+                "type": "ProductAppearance",
+                "object": {
+                    "brand": "De Tomaso",
+                    "title": "Vehicle",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/f5da2560f63747b79047047d78f60084.jpg",
+                        "width": 640,
+                        "height": 360,
+                        "type": "JPG"
+                    },
+                    "category": "Sports Cars",
+                    "model": "Pantera GT5-S",
+                    "objectType": "productappearances",
+                    "uuid": "54540da2e4b011b65cb318b6"
+                }
+            }
+        }, {
+            "in": 703000,
+            "out": 762000,
+            "rcdbId": "EV4476683",
+            "cardRcdbId": "EX210191",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "productappearances/54540ea8e4b003ee7bdcaf7d"
+                },
+                "rcdbId": "EX210191",
+                "source": "universal_pictures",
+                "type": "ProductAppearance",
+                "object": {
+                    "brand": "Ford",
+                    "title": "Vehicle",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/505b659c51a7461c94f1d228c38b8978.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "category": "Sports Cars",
+                    "model": "GT 40",
+                    "objectType": "productappearances",
+                    "uuid": "54540ea8e4b003ee7bdcaf7d"
+                }
+            }
+        }, {
+            "in": 703202,
+            "out": 733202,
+            "rcdbId": "EV4476682",
+            "cardRcdbId": "EX210190",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/54540e2ee4b011b65cb318b7"
+                },
+                "rcdbId": "EX210190",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "imdbId": "nm0382911",
+                    "title": "Actor",
+                    "role": "Capa",
+                    "actorName": "Mark Hicks",
+                    "objectType": "portrayalappearances",
+                    "uuid": "54540e2ee4b011b65cb318b7"
+                }
+            }
+        }, {
+            "in": 703202,
+            "out": 733202,
+            "rcdbId": "EV4476333",
+            "cardRcdbId": "EX209887",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "trivia/54501a56e4b011b65cb31811"
+                },
+                "rcdbId": "EX209887",
+                "source": "universal_pictures",
+                "type": "Trivia",
+                "object": {
+                    "title": "Know Your Car",
+                    "answers": [{
+                        "correct": false,
+                        "text": "$200,000",
+                        "response": "Uh, add a zero chum. More like $2M."
+                    }, {
+                        "correct": false,
+                        "text": "$500,000",
+                        "response": "Close but no cigar. More like $2M."
+                    }, {
+                        "correct": true,
+                        "text": "$2,000,000",
+                        "response": "Bingo! Looks like you and Dom should set up shop."
+                    }],
+                    "question": {
+                        "image": {
+                            "url": "http://d3jubmq7nwu33f.cloudfront.net/images/3de691a0e31148d8badf5754a7f5e95c.jpg",
+                            "width": 800,
+                            "height": 600,
+                            "type": "JPG"
+                        },
+                        "text": "A mint condition 1966 Ford GT40 with original parts would cost approximately how much at auction?"
+                    },
+                    "uuid": "54501a56e4b011b65cb31811",
+                    "objectType": "trivia"
+                }
+            }
+        }, {
+            "in": 924256,
+            "out": 954256,
+            "rcdbId": "EV4476997",
+            "cardRcdbId": "EX210470",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "quotes/545a9e98e4b003ee7bdcb035"
+                },
+                "rcdbId": "EX210470",
+                "source": "universal_pictures",
+                "type": "TalentQuote",
+                "object": {
+                    "attribution": {
+                        "name": "Vin Diesel",
+                        "description": "On filming the train heist."
+                    },
+                    "title": "Say What?",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/d51c6a0ef31e4aa2916947fe29f8c118.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "quote": "We one-up the classic stagecoach or train robbery. Our version is done without horses but with a whole lot of horsepower.",
+                    "objectType": "quotes",
+                    "uuid": "545a9e98e4b003ee7bdcb035"
+                }
+            }
+        }, {
+            "in": 998397,
+            "out": 1048513,
+            "rcdbId": "EV4476684",
+            "cardRcdbId": "EX210192",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "messages/545414ade4b003ee7bdcaf7e"
+                },
+                "rcdbId": "EX210192",
+                "source": "universal_pictures",
+                "type": "Fact",
+                "object": {
+                    "message": "There is no canyon with a river in Rice, California. This landscape was digitally generated.",
+                    "title": "Did You Know...",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/7cad6ce13fcc4d6ba37e5879557088c4.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "objectType": "messages",
+                    "uuid": "545414ade4b003ee7bdcaf7e"
+                }
+            }
+        }, {
+            "in": 1048614,
+            "out": 1151000,
+            "rcdbId": "EV4476689",
+            "cardRcdbId": "EX210197",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545417f9e4b003ee7bdcaf82"
+                },
+                "rcdbId": "EX210197",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Meeting Reyes",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/c5ffe8fe2c824f22a203cea31ec901ee.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "objectType": "photos",
+                    "uuid": "545417f9e4b003ee7bdcaf82"
+                }
+            }
+        }, {
+            "in": 1056822,
+            "out": 1134000,
+            "rcdbId": "EV4476690",
+            "cardRcdbId": "EX210198",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/54541826e4b011b65cb318c2"
+                },
+                "rcdbId": "EX210198",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Joaquim de Almeida",
+                    "imdbId": "nm0021835",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/510d8e433ae34c7b8fcdcc198bd64352.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "Hernan Reyes",
+                    "uuid": "54541826e4b011b65cb318c2",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 1056822,
+            "out": 1142000,
+            "rcdbId": "EV4476691",
+            "cardRcdbId": "EX210199",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/54541848e4b003ee7bdcaf83"
+                },
+                "rcdbId": "EX210199",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "imdbId": "nm0409831",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/6a2166bfd6864ddc93eb6f1693fbaddd.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "actorName": "Michael Irby",
+                    "role": "Zizi",
+                    "objectType": "portrayalappearances",
+                    "uuid": "54541848e4b003ee7bdcaf83"
+                }
+            }
+        }, {
+            "in": 1137703,
+            "out": 1142000,
+            "rcdbId": "EV4476692",
+            "cardRcdbId": "EX210200",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "productappearances/54541a72e4b011b65cb318c4"
+                },
+                "rcdbId": "EX210200",
+                "source": "universal_pictures",
+                "type": "ProductAppearance",
+                "object": {
+                    "brand": "Volkswagen",
+                    "model": "Touareg",
+                    "title": "Vehicle",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/11518fbc6dc1463d86d7b5e08c8622d1.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "category": "SUV",
+                    "uuid": "54541a72e4b011b65cb318c4",
+                    "objectType": "productappearances"
+                }
+            }
+        }, {
+            "in": 1152184,
+            "out": 1237000,
+            "rcdbId": "EV4476694",
+            "cardRcdbId": "EX210202",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/54541bebe4b011b65cb318c6"
+                },
+                "rcdbId": "EX210202",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "The Garage",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/40b3d5f17cd841759be0cf62c2c60043.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "uuid": "54541bebe4b011b65cb318c6",
+                    "objectType": "photos"
+                }
+            }
+        }, {
+            "in": 1152184,
+            "out": 1237000,
+            "rcdbId": "EV4476693",
+            "cardRcdbId": "EX210201",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "pointsofinterest/54541b64e4b011b65cb318c5"
+                },
+                "rcdbId": "EX210201",
+                "source": "universal_pictures",
+                "type": "LocalFinder",
+                "object": {
+                    "title": "Where Are They?",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/30797a195fbe4af19ee40931b9101f1c.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "pointsOfInterest": [{
+                        "image": {
+                            "url": "http://d3jubmq7nwu33f.cloudfront.net/images/30797a195fbe4af19ee40931b9101f1c.jpg",
+                            "width": 704,
+                            "height": 480,
+                            "type": "JPG"
+                        },
+                        "latitude": "-22.948267",
+                        "name": "Dona Marta Favela",
+                        "longitude": "-43.193531",
+                        "description": "The Dona Marta Favela has about 8000 residents, with 500 wooden houses, 2000 brick houses, 4 kindergartens, 3 bakeries, 2 sports fields, 1 block of a samba school, 3 military units and 1 smallmarket. The favela is one of the steepest in the city."
+                    }],
+                    "uuid": "54541b64e4b011b65cb318c5",
+                    "objectType": "pointsofinterest"
+                }
+            }
+        }, {
+            "in": 1165297,
+            "out": 1237000,
+            "rcdbId": "EV4476695",
+            "cardRcdbId": "EX210203",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/54541c22e4b011b65cb318c7"
+                },
+                "rcdbId": "EX210203",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "uuid": "54541c22e4b011b65cb318c7",
+                    "role": "Mia Toretto",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/e88cf1ee68bd4ab987323d34b9a19421.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "actorName": "Jordana Brewster",
+                    "imdbId": "nm0108287",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 1237000,
+            "out": 1320000,
+            "rcdbId": "EV4476696",
+            "cardRcdbId": "EX210204",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "media/54541d66e4b011b65cb318c9"
+                },
+                "rcdbId": "EX210204",
+                "source": "universal_pictures",
+                "type": "PurchaseMedia",
+                "object": {
+                    "featuredItem": "Hobbs",
+                    "releaseDate": "2011-04-26",
+                    "title": "Music",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/442e11ec9f5f47a2a7322eacf8736d3d.jpg",
+                        "width": 350,
+                        "height": 350,
+                        "type": "JPG"
+                    },
+                    "featuredItemDetail": "from the \"Fast Five\" official score",
+                    "creators": [{
+                        "name": "Bryan Tyler"
+                    }],
+                    "objectType": "media",
+                    "uuid": "54541d66e4b011b65cb318c9"
+                }
+            }
+        }, {
+            "in": 1237502,
+            "out": 1320852,
+            "rcdbId": "EV4476697",
+            "cardRcdbId": "EX210205",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/54541d66e4b003ee7bdcaf86"
+                },
+                "rcdbId": "EX210205",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Luke Hobbs arrives in Rio",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/ceece98d41c34a0a9b2b7a387ea3a402.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "uuid": "54541d66e4b003ee7bdcaf86",
+                    "objectType": "photos"
+                }
+            }
+        }, {
+            "in": 1254319,
+            "out": 1320819,
+            "rcdbId": "EV4476698",
+            "cardRcdbId": "EX210206",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/54541e05e4b003ee7bdcaf87"
+                },
+                "rcdbId": "EX210206",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Dwayne Johnson",
+                    "imdbId": "nm0425005",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/0230b8804b494c66b0ccd639599b9bc1.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "Luke Hobbs",
+                    "uuid": "54541e05e4b003ee7bdcaf87",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 1276341,
+            "out": 1316381,
+            "rcdbId": "EV4476906",
+            "cardRcdbId": "EX210361",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545974c1e4b003ee7bdcafeb"
+                },
+                "rcdbId": "EX210361",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Joseph Melendez",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/7ec77c68aa5a4ff7b2bef0c21583ccb2.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "Chief of Police Alemeida",
+                    "imdbId": "nm1645332",
+                    "objectType": "portrayalappearances",
+                    "uuid": "545974c1e4b003ee7bdcafeb"
+                }
+            }
+        }, {
+            "in": 1320852,
+            "out": 1373839,
+            "rcdbId": "EV4476911",
+            "cardRcdbId": "EX210366",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545974c2e4b011b65cb3192e"
+                },
+                "rcdbId": "EX210366",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Paul Walker",
+                    "imdbId": "nm0908094",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/68c0e8f2638745ed930478934b537e53.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "Brian O'Conner",
+                    "uuid": "545974c2e4b011b65cb3192e",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 1320852,
+            "out": 1376241,
+            "rcdbId": "EV4476908",
+            "cardRcdbId": "EX210363",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545974c2e4b003ee7bdcafed"
+                },
+                "rcdbId": "EX210363",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "imdbId": "nm0108287",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/aa3c9b8bf4954f34b6a1ffe640bd9ff5.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "actorName": "Jordana Brewster",
+                    "role": "Mia Toretto",
+                    "objectType": "portrayalappearances",
+                    "uuid": "545974c2e4b003ee7bdcafed"
+                }
+            }
+        }, {
+            "in": 1320852,
+            "out": 1380912,
+            "rcdbId": "EV4476907",
+            "cardRcdbId": "EX210362",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545974c2e4b003ee7bdcafec"
+                },
+                "rcdbId": "EX210362",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Brian & Vince Clash",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/19487fe10700491e8506e1880dd34567.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "objectType": "photos",
+                    "uuid": "545974c2e4b003ee7bdcafec"
+                }
+            }
+        }, {
+            "in": 1320852,
+            "out": 1380912,
+            "rcdbId": "EV4476909",
+            "cardRcdbId": "EX210364",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545974c2e4b003ee7bdcafee"
+                },
+                "rcdbId": "EX210364",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Vin Diesel",
+                    "imdbId": "nm0004874",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/f6acec59bc6248799cc4361798640f6b.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "Dominic Toretto",
+                    "uuid": "545974c2e4b003ee7bdcafee",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 1336335,
+            "out": 1380912,
+            "rcdbId": "EV4476910",
+            "cardRcdbId": "EX210365",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545974c2e4b011b65cb3192d"
+                },
+                "rcdbId": "EX210365",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "imdbId": "nm0776580",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/59136dbb8b1e4d309aad548b67e327a7.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "actorName": "Matt Schulze",
+                    "role": "Vince",
+                    "objectType": "portrayalappearances",
+                    "uuid": "545974c2e4b011b65cb3192d"
+                }
+            }
+        }, {
+            "in": 1380946,
+            "out": 1486952,
+            "rcdbId": "EV4476912",
+            "cardRcdbId": "EX210367",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/54597775e4b011b65cb31933"
+                },
+                "rcdbId": "EX210367",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Reyes Gets Some Info",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/2c97f76beb2840e39e474a740c070fa7.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "objectType": "photos",
+                    "uuid": "54597775e4b011b65cb31933"
+                }
+            }
+        }, {
+            "in": 1389054,
+            "out": 1486952,
+            "rcdbId": "EV4476914",
+            "cardRcdbId": "EX210369",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/54597775e4b011b65cb31932"
+                },
+                "rcdbId": "EX210369",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "imdbId": "nm0021835",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/d239bb3b50eb4876b0b309d26b3ea6be.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "actorName": "Joaquim de Almeida",
+                    "role": "Hernan Reyes",
+                    "objectType": "portrayalappearances",
+                    "uuid": "54597775e4b011b65cb31932"
+                }
+            }
+        }, {
+            "in": 1438270,
+            "out": 1486952,
+            "rcdbId": "EV4476913",
+            "cardRcdbId": "EX210368",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/54597775e4b003ee7bdcaff0"
+                },
+                "rcdbId": "EX210368",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Orlando Vargas Diaz",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/fd626ae76e844a2a90194174f4317033.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "S. American Kingpin Druglord ",
+                    "imdbId": "nm4578311",
+                    "objectType": "portrayalappearances",
+                    "uuid": "54597775e4b003ee7bdcaff0"
+                }
+            }
+        }, {
+            "in": 1476041,
+            "out": 1486952,
+            "rcdbId": "EV4476915",
+            "cardRcdbId": "EX210370",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/54597775e4b003ee7bdcaff1"
+                },
+                "rcdbId": "EX210370",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "imdbId": "nm0409831",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/efde6110519245ef901770efb2ddb3c9.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "actorName": "Michael Irby",
+                    "role": "Zizi",
+                    "objectType": "portrayalappearances",
+                    "uuid": "54597775e4b003ee7bdcaff1"
+                }
+            }
+        }, {
+            "in": 1486985,
+            "out": 1594593,
+            "rcdbId": "EV4476917",
+            "cardRcdbId": "EX210372",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545978d3e4b003ee7bdcaff3"
+                },
+                "rcdbId": "EX210372",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Vince & Dom Clash",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/0878bce91b0f4880a7f2f21620f803ce.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "objectType": "photos",
+                    "uuid": "545978d3e4b003ee7bdcaff3"
+                }
+            }
+        }, {
+            "in": 1501266,
+            "out": 1594593,
+            "rcdbId": "EV4476916",
+            "cardRcdbId": "EX210371",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545978d3e4b003ee7bdcaff4"
+                },
+                "rcdbId": "EX210371",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "imdbId": "nm0776580",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/59136dbb8b1e4d309aad548b67e327a7.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "actorName": "Matt Schulze",
+                    "role": "Vince",
+                    "objectType": "portrayalappearances",
+                    "uuid": "545978d3e4b003ee7bdcaff4"
+                }
+            }
+        }, {
+            "in": 1502634,
+            "out": 1594593,
+            "rcdbId": "EV4476918",
+            "cardRcdbId": "EX210373",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545978d3e4b011b65cb31934"
+                },
+                "rcdbId": "EX210373",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "imdbId": "nm0004874",
+                    "title": "Appearance",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/f6acec59bc6248799cc4361798640f6b.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "actorName": "Vin Diesel",
+                    "role": "Dominic Toretto",
+                    "objectType": "portrayalappearances",
+                    "uuid": "545978d3e4b011b65cb31934"
+                }
+            }
+        }, {
+            "in": 1534132,
+            "out": 1594593,
+            "rcdbId": "EV4476919",
+            "cardRcdbId": "EX210374",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545978d3e4b011b65cb31935"
+                },
+                "rcdbId": "EX210374",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "imdbId": "nm0108287",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/aa3c9b8bf4954f34b6a1ffe640bd9ff5.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "actorName": "Jordana Brewster",
+                    "role": "Mia Toretto",
+                    "objectType": "portrayalappearances",
+                    "uuid": "545978d3e4b011b65cb31935"
+                }
+            }
+        }, {
+            "in": 1536601,
+            "out": 1594593,
+            "rcdbId": "EV4476920",
+            "cardRcdbId": "EX210375",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545978d3e4b003ee7bdcaff5"
+                },
+                "rcdbId": "EX210375",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "imdbId": "nm0908094",
+                    "title": "Appearance",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/68c0e8f2638745ed930478934b537e53.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "actorName": "Paul Walker",
+                    "role": "Brian O'Conner",
+                    "objectType": "portrayalappearances",
+                    "uuid": "545978d3e4b003ee7bdcaff5"
+                }
+            }
+        }, {
+            "in": 1594626,
+            "out": 1700665,
+            "rcdbId": "EV4476926",
+            "cardRcdbId": "EX210381",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/54597b37e4b003ee7bdcaffb"
+                },
+                "rcdbId": "EX210381",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Hobbs' team investigates the train",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/02d2429cc74b47f89e1afa992903d472.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "uuid": "54597b37e4b003ee7bdcaffb",
+                    "objectType": "photos"
+                }
+            }
+        }, {
+            "in": 1594626,
+            "out": 1700665,
+            "rcdbId": "EV4476923",
+            "cardRcdbId": "EX210378",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/54597b0fe4b003ee7bdcaff9"
+                },
+                "rcdbId": "EX210378",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "imdbId": "nm0425005",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/8c7c4f60f3b746eca72aecb303fcaac3.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "actorName": "Dwayne Johnson",
+                    "role": "Luke Hobbs",
+                    "objectType": "portrayalappearances",
+                    "uuid": "54597b0fe4b003ee7bdcaff9"
+                }
+            }
+        }, {
+            "in": 1614779,
+            "out": 1700665,
+            "rcdbId": "EV4476922",
+            "cardRcdbId": "EX210377",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/54597b0fe4b003ee7bdcaff8"
+                },
+                "rcdbId": "EX210377",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Fernando Chien",
+                    "title": "Actor",
+                    "role": "Wilkes",
+                    "imdbId": "nm0157312",
+                    "objectType": "portrayalappearances",
+                    "uuid": "54597b0fe4b003ee7bdcaff8"
+                }
+            }
+        }, {
+            "in": 1618850,
+            "out": 1700665,
+            "rcdbId": "EV4476921",
+            "cardRcdbId": "EX210376",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/54597b0fe4b011b65cb31939"
+                },
+                "rcdbId": "EX210376",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Elsa Pataky",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/dd9852dd92cf4b58b67bc2bdd5cb3e31.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "Elena Neves",
+                    "imdbId": "nm0665235",
+                    "objectType": "portrayalappearances",
+                    "uuid": "54597b0fe4b011b65cb31939"
+                }
+            }
+        }, {
+            "in": 1627425,
+            "out": 1700665,
+            "rcdbId": "EV4476924",
+            "cardRcdbId": "EX210379",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/54597b0fe4b011b65cb3193a"
+                },
+                "rcdbId": "EX210379",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Geoff Meed",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/230c1a4c1c0049979ac66c322a2d8d17.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "Macroy",
+                    "imdbId": "nm0576015",
+                    "objectType": "portrayalappearances",
+                    "uuid": "54597b0fe4b011b65cb3193a"
+                }
+            }
+        }, {
+            "in": 1650782,
+            "out": 1700665,
+            "rcdbId": "EV4476925",
+            "cardRcdbId": "EX210380",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/54597b0fe4b003ee7bdcaffa"
+                },
+                "rcdbId": "EX210380",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Yorgo Constantine",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/d0041612c04d4f4d9d01a3d19c7cfe5d.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "Chato",
+                    "imdbId": "nm0176085",
+                    "objectType": "portrayalappearances",
+                    "uuid": "54597b0fe4b003ee7bdcaffa"
+                }
+            }
+        }, {
+            "in": 1700699,
+            "out": 1730699,
+            "rcdbId": "EV4476969",
+            "cardRcdbId": "EX210444",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545a94ade4b011b65cb3195f"
+                },
+                "rcdbId": "EX210444",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Hobbs' team closes in & Dom's team decodes the chip",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/4c170587f6f34233b161a5dfe1006830.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "uuid": "545a94ade4b011b65cb3195f",
+                    "objectType": "photos"
+                }
+            }
+        }, {
+            "in": 1705603,
+            "out": 1735603,
+            "rcdbId": "EV4476841",
+            "cardRcdbId": "EX210321",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "ratings/54590d40e4b003ee7bdcafdd"
+                },
+                "rcdbId": "EX210321",
+                "source": "universal_pictures",
+                "type": "PhotoWithRating",
+                "object": {
+                    "services": {
+                        "enableExMachina": true,
+                        "exMachina": {
+                            "initUrl": "http://backend.watchwith.playtotv.com/api/1/gatekeeper/init",
+                            "interactionId": "54590d40e4b08b167f0cc7f4"
+                        },
+                        "enablePolldaddy": false
+                    },
+                    "title": "Rate It",
+                    "callToActionText": "How much does this inspire you?",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/1ee80e8e11d549bd92990368ab524aeb.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "numberOfChoices": 5,
+                    "objectType": "ratings",
+                    "uuid": "54590d40e4b003ee7bdcafdd"
+                }
+            }
+        }, {
+            "in": 1715547,
+            "out": 1903271,
+            "rcdbId": "EV4476977",
+            "cardRcdbId": "EX210452",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "messages/545a94aee4b003ee7bdcb02a"
+                },
+                "rcdbId": "EX210452",
+                "source": "universal_pictures",
+                "type": "ProductionNote",
+                "object": {
+                    "message": "Though set in the favelas of Rio de Janeiro, this scene was actually filmed in Naranjito, Puerto Rico.",
+                    "title": "Did You Know...",
+                    "messageDetail": "The favela rooftops were specially designed & reinforced to take the impact of actors & stunt people jumping on them.",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/5aeabe65d46d4d1599a64ab6f362861e.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "uuid": "545a94aee4b003ee7bdcb02a",
+                    "objectType": "messages"
+                }
+            }
+        }, {
+            "in": 1715547,
+            "out": 2094000,
+            "rcdbId": "EV4476978",
+            "cardRcdbId": "EX210453",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "pointsofinterest/545a94dee4b011b65cb31963"
+                },
+                "rcdbId": "EX210453",
+                "source": "universal_pictures",
+                "type": "LocalFinder",
+                "object": {
+                    "title": "Where Are They?",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/5aeabe65d46d4d1599a64ab6f362861e.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "pointsOfInterest": [{
+                        "latitude": "-22.948267",
+                        "name": "Dona Marta Favela",
+                        "longitude": "-43.193531",
+                        "image": {
+                            "url": "http://d3jubmq7nwu33f.cloudfront.net/images/5aeabe65d46d4d1599a64ab6f362861e.jpg",
+                            "width": 704,
+                            "height": 480,
+                            "type": "JPG"
+                        }
+                    }],
+                    "uuid": "545a94dee4b011b65cb31963",
+                    "objectType": "pointsofinterest"
+                }
+            }
+        }, {
+            "in": 1731029,
+            "out": 1847478,
+            "rcdbId": "EV4476970",
+            "cardRcdbId": "EX210445",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545a94ade4b003ee7bdcb026"
+                },
+                "rcdbId": "EX210445",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Jordana Brewster",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/99bb039c3eaf4b7da2c5b47c16f2ebd8.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "Mia Toretto",
+                    "imdbId": "nm0108287",
+                    "objectType": "portrayalappearances",
+                    "uuid": "545a94ade4b003ee7bdcb026"
+                }
+            }
+        }, {
+            "in": 1732397,
+            "out": 1833164,
+            "rcdbId": "EV4476972",
+            "cardRcdbId": "EX210447",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "productappearances/545a94ade4b011b65cb31960"
+                },
+                "rcdbId": "EX210447",
+                "source": "universal_pictures",
+                "type": "ProductAppearance",
+                "object": {
+                    "brand": "Jaeger-LeCoultre",
+                    "title": "Product",
+                    "model": "Master Compressor Diving ‘Navy SEALs’ Automatic",
+                    "category": "Wrist watch",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/c1bb624523e3474da26e1025f8908256.png",
+                        "width": 652,
+                        "height": 936,
+                        "type": "PNG"
+                    },
+                    "objectType": "productappearances",
+                    "uuid": "545a94ade4b011b65cb31960"
+                }
+            }
+        }, {
+            "in": 1732397,
+            "out": 1849214,
+            "rcdbId": "EV4476971",
+            "cardRcdbId": "EX210446",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545a94ade4b003ee7bdcb027"
+                },
+                "rcdbId": "EX210446",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Paul Walker",
+                    "imdbId": "nm0908094",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/68c0e8f2638745ed930478934b537e53.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "Brian O'Conner",
+                    "uuid": "545a94ade4b003ee7bdcb027",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 1744943,
+            "out": 1833164,
+            "rcdbId": "EV4476973",
+            "cardRcdbId": "EX210448",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545a94aee4b003ee7bdcb028"
+                },
+                "rcdbId": "EX210448",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Vin Diesel",
+                    "imdbId": "nm0004874",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/8b24baec56aa4f0786c13c8a9b25bb2b.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "Dominic Toretto",
+                    "uuid": "545a94aee4b003ee7bdcb028",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 1790488,
+            "out": 1861759,
+            "rcdbId": "EV4476974",
+            "cardRcdbId": "EX210449",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545a94aee4b011b65cb31961"
+                },
+                "rcdbId": "EX210449",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "imdbId": "nm0425005",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/252c7e501770419d9c19dfdf46d82839.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "actorName": "Dwayne Johnson",
+                    "role": "Luke Hobbs",
+                    "objectType": "portrayalappearances",
+                    "uuid": "545a94aee4b011b65cb31961"
+                }
+            }
+        }, {
+            "in": 1790488,
+            "out": 1863328,
+            "rcdbId": "EV4476975",
+            "cardRcdbId": "EX210450",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545a94aee4b003ee7bdcb029"
+                },
+                "rcdbId": "EX210450",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "imdbId": "nm0665235",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/57ed2a28cef543789678a81cd7d581ec.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "actorName": "Elsa Pataky",
+                    "role": "Elena Neves",
+                    "objectType": "portrayalappearances",
+                    "uuid": "545a94aee4b003ee7bdcb029"
+                }
+            }
+        }, {
+            "in": 1835166,
+            "out": 2002500,
+            "rcdbId": "EV4476976",
+            "cardRcdbId": "EX210451",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545a94aee4b011b65cb31962"
+                },
+                "rcdbId": "EX210451",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Michael Irby",
+                    "imdbId": "nm0409831",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/d3ff45d06a7c46f7aa93e8ce175c968f.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "Zizi",
+                    "uuid": "545a94aee4b011b65cb31962",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 1863394,
+            "out": 2094759,
+            "rcdbId": "EV4476992",
+            "cardRcdbId": "EX210465",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545a9a2be4b011b65cb3196e"
+                },
+                "rcdbId": "EX210465",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Dom's crew flees along the rooftops",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/afb1a4bef6624efbbe89522b915a4fb0.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "uuid": "545a9a2be4b011b65cb3196e",
+                    "objectType": "photos"
+                }
+            }
+        }, {
+            "in": 1865196,
+            "out": 1988886,
+            "rcdbId": "EV4476993",
+            "cardRcdbId": "EX210466",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545a9b8ae4b003ee7bdcb031"
+                },
+                "rcdbId": "EX210466",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "imdbId": "nm0004874",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/67eb0cac02114de8aa1a638dd9884dca.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "actorName": "Vin Diesel",
+                    "role": "Dominic Toretto",
+                    "objectType": "portrayalappearances",
+                    "uuid": "545a9b8ae4b003ee7bdcb031"
+                }
+            }
+        }, {
+            "in": 1874505,
+            "out": 2078342,
+            "rcdbId": "EV4476982",
+            "cardRcdbId": "EX210455",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545a99fee4b011b65cb31968"
+                },
+                "rcdbId": "EX210455",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Dwayne Johnson",
+                    "imdbId": "nm0425005",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/23581a6cb80f4f4c894888cd3d9d1c0c.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "Luke Hobbs",
+                    "uuid": "545a99fee4b011b65cb31968",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 1875000,
+            "out": 1905000,
+            "rcdbId": "EV4477006",
+            "cardRcdbId": "EX210479",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "messages/545aa034e4b003ee7bdcb039"
+                },
+                "rcdbId": "EX210479",
+                "source": "universal_pictures",
+                "type": "ProductionNote",
+                "object": {
+                    "message": "This chase scene took over a week of filming.",
+                    "title": "Did You Know...",
+                    "messageDetail": "Cameras were mounted on cranes, rooftops, alleyways and even cables to capture all the action.",
+                    "uuid": "545aa034e4b003ee7bdcb039",
+                    "objectType": "messages"
+                }
+            }
+        }, {
+            "in": 1908573,
+            "out": 1938573,
+            "rcdbId": "EV4476989",
+            "cardRcdbId": "EX210462",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "quotes/545a99ffe4b003ee7bdcb02f"
+                },
+                "rcdbId": "EX210462",
+                "source": "universal_pictures",
+                "type": "ExternalQuote",
+                "object": {
+                    "attribution": {
+                        "name": "Michael Fottrell",
+                        "description": "Executive Producer"
+                    },
+                    "title": "Say What?",
+                    "image": {
+                        "width": 1100,
+                        "height": 764,
+                        "type": "PNG",
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/6fd8a8b498ef47c3ab1a4be5b4c5de1f.png"
+                    },
+                    "quote": "For a character driven movie, shooting in Rio is\rgreat. But for a big action sequence with a second unit as big as ours, the technical aspect, the equipment - everything involved to pull these movies off - it was too ambitious to do in Rio.",
+                    "objectType": "quotes",
+                    "uuid": "545a99ffe4b003ee7bdcb02f"
+                }
+            }
+        }, {
+            "in": 1908973,
+            "out": 2028693,
+            "rcdbId": "EV4476983",
+            "cardRcdbId": "EX210456",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545a99fee4b003ee7bdcb02c"
+                },
+                "rcdbId": "EX210456",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Jordana Brewster",
+                    "imdbId": "nm0108287",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/8af2fe71759545f1b66d2c5eb649e203.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "Mia Toretto",
+                    "uuid": "545a99fee4b003ee7bdcb02c",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 1908973,
+            "out": 2028693,
+            "rcdbId": "EV4476986",
+            "cardRcdbId": "EX210459",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545a99ffe4b011b65cb3196a"
+                },
+                "rcdbId": "EX210459",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "imdbId": "nm0908094",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/8f1c8797cacb41c7b96080298f757a68.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "actorName": "Paul Walker",
+                    "role": "Brian O'Conner",
+                    "objectType": "portrayalappearances",
+                    "uuid": "545a99ffe4b011b65cb3196a"
+                }
+            }
+        }, {
+            "in": 1940271,
+            "out": 1970271,
+            "rcdbId": "EV4477019",
+            "cardRcdbId": "EX210492",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "bios/545aa361e4b003ee7bdcb043"
+                },
+                "rcdbId": "EX210492",
+                "source": "universal_pictures",
+                "type": "TalentBio",
+                "object": {
+                    "bio": "A practitioner of parkour (free-running through your environment while adapting movement as you gain momentum), Darnell worked with Walker & Brewser on the adrenaline-fueled rooftop chase.",
+                    "characterName": "Stunt Coordinator",
+                    "title": "Behind the Scenes",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/1651f81898db4a97ac9facc2cfcb5018.png",
+                        "width": 1088,
+                        "height": 784,
+                        "type": "PNG"
+                    },
+                    "talentName": "Paul Darnell",
+                    "uuid": "545aa361e4b003ee7bdcb043",
+                    "objectType": "bios"
+                }
+            }
+        }, {
+            "in": 1950815,
+            "out": 2094759,
+            "rcdbId": "EV4476985",
+            "cardRcdbId": "EX210458",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545a99ffe4b011b65cb31969"
+                },
+                "rcdbId": "EX210458",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "imdbId": "nm0665235",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/3b246458800f4e48b9afff819d5e138c.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "actorName": "Elsa Pataky",
+                    "role": "Elena Neves",
+                    "objectType": "portrayalappearances",
+                    "uuid": "545a99ffe4b011b65cb31969"
+                }
+            }
+        }, {
+            "in": 1995960,
+            "out": 2059257,
+            "rcdbId": "EV4477899",
+            "cardRcdbId": "EX211228",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "ratings/5464f0d2e4b011b65cb31be6"
+                },
+                "rcdbId": "EX211228",
+                "source": "universal_pictures",
+                "type": "PhotoWithRating",
+                "object": {
+                    "caption": "Hobbs' team lays down some lead",
+                    "services": {
+                        "enableExMachina": true,
+                        "exMachina": {
+                            "initUrl": "http://backend.watchwith.playtotv.com/api/1/gatekeeper/init",
+                            "interactionId": "5464f0d1e4b08b167f0ce0b5"
+                        },
+                        "enablePolldaddy": false
+                    },
+                    "title": "Fusco, Wilkes, Macroy & Chato",
+                    "callToActionText": "How badass is this team?",
+                    "image": {
+                        "url": "http://link.theplatform.com/s/JStuSC/ZJBlNRJneHU8?feed=Hackathon%20%28Universal%20Pictures%20EST%29"
+                    },
+                    "numberOfChoices": 5,
+                    "objectType": "ratings",
+                    "uuid": "5464f0d2e4b011b65cb31be6"
+                }
+            }
+        }, {
+            "in": 1995960,
+            "out": 2059257,
+            "rcdbId": "EV4476990",
+            "cardRcdbId": "EX210463",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545a99ffe4b011b65cb3196c"
+                },
+                "rcdbId": "EX210463",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Yorgo Constantine",
+                    "imdbId": "nm0176085",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/71e5cc1d45aa42018217422223f849c8.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "Chato",
+                    "uuid": "545a99ffe4b011b65cb3196c",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 1995960,
+            "out": 2059257,
+            "rcdbId": "EV4476984",
+            "cardRcdbId": "EX210457",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545a99ffe4b003ee7bdcb02d"
+                },
+                "rcdbId": "EX210457",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Fernando Chien",
+                    "imdbId": "nm0157312",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/f9582d1661444d2a8d37d81e1a09626c.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "Wilkes",
+                    "uuid": "545a99ffe4b003ee7bdcb02d",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 1995960,
+            "out": 2059257,
+            "rcdbId": "EV4476987",
+            "cardRcdbId": "EX210460",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545a99ffe4b011b65cb3196b"
+                },
+                "rcdbId": "EX210460",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Alimi Ballard",
+                    "imdbId": "nm0050584",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/f9582d1661444d2a8d37d81e1a09626c.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "Fusco",
+                    "uuid": "545a99ffe4b011b65cb3196b",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 1995960,
+            "out": 2059257,
+            "rcdbId": "EV4476988",
+            "cardRcdbId": "EX210461",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/545a99ffe4b003ee7bdcb02e"
+                },
+                "rcdbId": "EX210461",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Geoff Meed",
+                    "imdbId": "nm0576015",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/71e5cc1d45aa42018217422223f849c8.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "Macroy",
+                    "uuid": "545a99ffe4b003ee7bdcb02e",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 2081913,
+            "out": 2094759,
+            "rcdbId": "EV4476991",
+            "cardRcdbId": "EX210464",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "messages/545a99ffe4b011b65cb3196d"
+                },
+                "rcdbId": "EX210464",
+                "source": "universal_pictures",
+                "type": "Fact",
+                "object": {
+                    "message": "The necklace used to belong to Letty, Dominic's love-interest who perished in the previous movie.",
+                    "title": "Fact",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/cde8ecb19a35455eafa151fd9ced69c6.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "objectType": "messages",
+                    "uuid": "545a99ffe4b011b65cb3196d"
+                }
+            }
+        }, {
+            "in": 2094759,
+            "out": 2171002,
+            "rcdbId": "EV4477079",
+            "cardRcdbId": "EX210552",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545abb21e4b011b65cb319ab"
+                },
+                "rcdbId": "EX210552",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Mia shares a secret...",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/58f3f4c065f64f299aba0614126bb6fb.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "objectType": "photos",
+                    "uuid": "545abb21e4b011b65cb319ab"
+                }
+            }
+        }, {
+            "in": 2171002,
+            "out": 2266631,
+            "rcdbId": "EV4477077",
+            "cardRcdbId": "EX210550",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545abb21e4b003ee7bdcb069"
+                },
+                "rcdbId": "EX210550",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Luke's crew searches the garage",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/68cf39dc8038470c8e63c0cd83e30d9d.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "objectType": "photos",
+                    "uuid": "545abb21e4b003ee7bdcb069"
+                }
+            }
+        }, {
+            "in": 2266631,
+            "out": 2445443,
+            "rcdbId": "EV4477078",
+            "cardRcdbId": "EX210551",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545abb21e4b011b65cb319ac"
+                },
+                "rcdbId": "EX210551",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/c9a6d63af8f741a5bb55fe5076e92efc.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "title": "Dom & Brian discuss their fathers",
+                    "objectType": "photos",
+                    "uuid": "545abb21e4b011b65cb319ac"
+                }
+            }
+        }, {
+            "in": 2445443,
+            "out": 2521619,
+            "rcdbId": "EV4477923",
+            "cardRcdbId": "EX211246",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "media/54650ce5e4b003ee7bdcb25d"
+                },
+                "rcdbId": "EX211246",
+                "source": "universal_pictures",
+                "type": "PurchaseMedia",
+                "object": {
+                    "featuredItem": "The Perfect Crew",
+                    "creators": [{
+                        "name": "Bryan Tyler"
+                    }],
+                    "featuredItemDetail": "from the \"Fast Five\" official score",
+                    "title": "Music",
+                    "uuid": "54650ce5e4b003ee7bdcb25d",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/442e11ec9f5f47a2a7322eacf8736d3d.jpg",
+                        "width": 350,
+                        "height": 350,
+                        "type": "JPG"
+                    },
+                    "releaseDate": "2011-04-26",
+                    "objectType": "media"
+                }
+            }
+        }, {
+            "in": 2445443,
+            "out": 2734798,
+            "rcdbId": "EV4477076",
+            "cardRcdbId": "EX210549",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545abb21e4b003ee7bdcb068"
+                },
+                "rcdbId": "EX210549",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "The team assembles",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/7a15447abf8a4ba592099c02d96cb2fc.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "uuid": "545abb21e4b003ee7bdcb068",
+                    "objectType": "photos"
+                }
+            }
+        }, {
+            "in": 2447411,
+            "out": 2477411,
+            "rcdbId": "EV4478018",
+            "cardRcdbId": "EX211308",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/546792b2e4b011b65cb31c37"
+                },
+                "rcdbId": "EX211308",
+                "source": "telemundo",
+                "type": "Photo",
+                "object": {
+                    "title": "Behind The Scenes",
+                    "image": {
+                        "url": "http://link.theplatform.com/s/JStuSC/WjD8ag_c1Sq0?feed=Hackathon%20%28Universal%20Pictures%20EST%29"
+                    },
+                    "caption": "Director Justin Lin on location in Rio. Future's so bright...",
+                    "objectType": "photos",
+                    "uuid": "546792b2e4b011b65cb31c37"
+                }
+            }
+        }, {
+            "in": 2457321,
+            "out": 2734798,
+            "rcdbId": "EV4477926",
+            "cardRcdbId": "EX211249",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/54650ce6e4b003ee7bdcb25f"
+                },
+                "rcdbId": "EX211249",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "uuid": "54650ce6e4b003ee7bdcb25f",
+                    "role": "Han Lue",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/a7240d8db48e4b7f8481aa1692650532.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "actorName": "Sung Kang",
+                    "imdbId": "nm0437646",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 2469266,
+            "out": 2734798,
+            "rcdbId": "EV4477924",
+            "cardRcdbId": "EX211247",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/54650ce6e4b011b65cb31bf1"
+                },
+                "rcdbId": "EX211247",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "uuid": "54650ce6e4b011b65cb31bf1",
+                    "role": "Taye Diggs",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/68e2ebb8d686473fb41317fd06c7db07.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "actorName": "Roman Pearce",
+                    "imdbId": "nm0879085",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 2469834,
+            "out": 2499834,
+            "rcdbId": "EV4477925",
+            "cardRcdbId": "EX211248",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "messages/54650ce6e4b003ee7bdcb25e"
+                },
+                "rcdbId": "EX211248",
+                "source": "universal_pictures",
+                "type": "ProductionNote",
+                "object": {
+                    "title": "Riot",
+                    "message": "When locals heard that Taye Diggs would be filming at Rio's airport, thousands showed up and near riot ensued.",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/68e2ebb8d686473fb41317fd06c7db07.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "objectType": "messages",
+                    "uuid": "54650ce6e4b003ee7bdcb25e"
+                }
+            }
+        }, {
+            "in": 2475072,
+            "out": 2734798,
+            "rcdbId": "EV4477928",
+            "cardRcdbId": "EX211251",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/54650d6ae4b011b65cb31bf3"
+                },
+                "rcdbId": "EX211251",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "uuid": "54650d6ae4b011b65cb31bf3",
+                    "role": "Tej Parker",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/884e3b189dce4dbbb489f6051e821189.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "actorName": "Chris \"Ludacris\" Bridges",
+                    "imdbId": "nm0524839",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 2481979,
+            "out": 2734798,
+            "rcdbId": "EV4477929",
+            "cardRcdbId": "EX211252",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/54650ddbe4b003ee7bdcb261"
+                },
+                "rcdbId": "EX211252",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "uuid": "54650ddbe4b003ee7bdcb261",
+                    "role": "Rico Santos",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/15e9e259249b49a1b99396a4c3d5e55c.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "actorName": "Don Omar",
+                    "imdbId": "nm1885797",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 2481979,
+            "out": 2734798,
+            "rcdbId": "EV4477927",
+            "cardRcdbId": "EX211250",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/54650d6ae4b003ee7bdcb260"
+                },
+                "rcdbId": "EX211250",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "uuid": "54650d6ae4b003ee7bdcb260",
+                    "role": "Tego Leo",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/15e9e259249b49a1b99396a4c3d5e55c.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "actorName": "Tego Calderon",
+                    "imdbId": "nm1578798",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 2513811,
+            "out": 2543811,
+            "rcdbId": "EV4477930",
+            "cardRcdbId": "EX211253",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "messages/54650fa4e4b003ee7bdcb264"
+                },
+                "rcdbId": "EX211253",
+                "source": "universal_pictures",
+                "type": "ProductionNote",
+                "object": {
+                    "title": "Film Fact",
+                    "message": "The actual warehouse was located in an abandoned train yard in Conyers, GA (just outside Atlanta).",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/36c79fa630e449b287b02f78432e0dac.jpg",
+                        "width": 640,
+                        "height": 360,
+                        "type": "JPG"
+                    },
+                    "objectType": "messages",
+                    "uuid": "54650fa4e4b003ee7bdcb264"
+                }
+            }
+        }, {
+            "in": 2567531,
+            "out": 2734798,
+            "rcdbId": "EV4477931",
+            "cardRcdbId": "EX211254",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "portrayalappearances/54651098e4b003ee7bdcb265"
+                },
+                "rcdbId": "EX211254",
+                "source": "universal_pictures",
+                "type": "PortrayalAppearance",
+                "object": {
+                    "actorName": "Gal Gadot",
+                    "imdbId": "nm2933757",
+                    "title": "Actor",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/a8cd2bc5676c40f78d4b71655547fe62.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "role": "Gisele Harabo",
+                    "uuid": "54651098e4b003ee7bdcb265",
+                    "objectType": "portrayalappearances"
+                }
+            }
+        }, {
+            "in": 2734798,
+            "out": 2833630,
+            "rcdbId": "EV4477081",
+            "cardRcdbId": "EX210554",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545abd2ee4b003ee7bdcb06d"
+                },
+                "rcdbId": "EX210554",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "The first heist",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/b7297cb10bc14eedab89c6acde41b09a.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "objectType": "photos",
+                    "uuid": "545abd2ee4b003ee7bdcb06d"
+                }
+            }
+        }, {
+            "in": 2833630,
+            "out": 2920717,
+            "rcdbId": "EV4477082",
+            "cardRcdbId": "EX210555",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545abd2ee4b011b65cb319b3"
+                },
+                "rcdbId": "EX210555",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Hobbs discovers what's missing",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/dc10bbefa2c04d41b7c63287ea46c9f1.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "uuid": "545abd2ee4b011b65cb319b3",
+                    "objectType": "photos"
+                }
+            }
+        }, {
+            "in": 2920717,
+            "out": 3009506,
+            "rcdbId": "EV4477091",
+            "cardRcdbId": "EX210564",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545abee2e4b003ee7bdcb073"
+                },
+                "rcdbId": "EX210564",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Reyes hears about the heist",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/45366cd0081d44b3aca2c2236377a74c.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "objectType": "photos",
+                    "uuid": "545abee2e4b003ee7bdcb073"
+                }
+            }
+        }, {
+            "in": 3009506,
+            "out": 3174337,
+            "rcdbId": "EV4477092",
+            "cardRcdbId": "EX210565",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545abee3e4b011b65cb319bc"
+                },
+                "rcdbId": "EX210565",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Dom's crew tracks the money",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/16adb7fc90b84867b1b1c0e1ef6a92c6.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "uuid": "545abee3e4b011b65cb319bc",
+                    "objectType": "photos"
+                }
+            }
+        }, {
+            "in": 3174337,
+            "out": 3319416,
+            "rcdbId": "EV4477097",
+            "cardRcdbId": "EX210569",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545ac156e4b011b65cb319c1"
+                },
+                "rcdbId": "EX210569",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Hobbs & Reyes each start their manhunt for Dom's crew",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/d680f1577cd14cb2942c23babf021d77.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "uuid": "545ac156e4b011b65cb319c1",
+                    "objectType": "photos"
+                }
+            }
+        }, {
+            "in": 3319416,
+            "out": 3789085,
+            "rcdbId": "EV4477102",
+            "cardRcdbId": "EX210574",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545ac22ae4b003ee7bdcb077"
+                },
+                "rcdbId": "EX210574",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Dom's crew cases police HQ",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/882090ff2fdb416493994c678e297afa.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "objectType": "photos",
+                    "uuid": "545ac22ae4b003ee7bdcb077"
+                }
+            }
+        }, {
+            "in": 3763359,
+            "out": 3789000,
+            "rcdbId": "EV4478023",
+            "cardRcdbId": "EX211313",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/5467983ee4b011b65cb31c3d"
+                },
+                "rcdbId": "EX211313",
+                "source": "telemundo",
+                "type": "Photo",
+                "object": {
+                    "title": "Promo Photo",
+                    "caption": "Director Justin Lin works with Taye Diggs in the warehouse.",
+                    "image": {
+                        "url": "http://link.theplatform.com/s/JStuSC/JszdFZlJf_V7?feed=Hackathon%20%28Universal%20Pictures%20EST%29"
+                    },
+                    "uuid": "5467983ee4b011b65cb31c3d",
+                    "objectType": "photos"
+                }
+            }
+        }, {
+            "in": 3789085,
+            "out": 3911974,
+            "rcdbId": "EV4477107",
+            "cardRcdbId": "EX210579",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545ac89fe4b011b65cb319cb"
+                },
+                "rcdbId": "EX210579",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Dom & Brian visit the Tuner Baile",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/98b1a65f43d5478c801ffdb74b5da5a6.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "uuid": "545ac89fe4b011b65cb319cb",
+                    "objectType": "photos"
+                }
+            }
+        }, {
+            "in": 3795625,
+            "out": 3825625,
+            "rcdbId": "EV4477920",
+            "cardRcdbId": "EX211243",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "messages/5465089de4b011b65cb31bec"
+                },
+                "rcdbId": "EX211243",
+                "source": "universal_pictures",
+                "type": "ProductionNote",
+                "object": {
+                    "message": "The tuner baile scenes were shot near the Georgia Superdome in Atlanta. Filmed at night, the cast & crew endured unseasonably cold weather while still having to wear the light & skimpy summer outfits more befitting the Rio setting.",
+                    "title": "Where dat?",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/64c972ddefec45b3a1826a93f0a3e880.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "objectType": "messages",
+                    "uuid": "5465089de4b011b65cb31bec"
+                }
+            }
+        }, {
+            "in": 3878241,
+            "out": 3908241,
+            "rcdbId": "EV4478020",
+            "cardRcdbId": "EX211310",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photogalleries/54679429e4b003ee7bdcb2b7"
+                },
+                "rcdbId": "EX211310",
+                "source": "telemundo",
+                "type": "PhotoGallery",
+                "object": {
+                    "title": "Tuner Baile",
+                    "photos": [{
+                        "image": {
+                            "url": "http://link.theplatform.com/s/JStuSC/izV9ZAkiwbxQ?feed=Hackathon%20%28Universal%20Pictures%20EST%29"
+                        },
+                        "caption": "Dom & Paul jaw with Diogo."
+                    }, {
+                        "image": {
+                            "url": "http://link.theplatform.com/s/JStuSC/i41U2Arb_c7O?feed=Hackathon%20%28Universal%20Pictures%20EST%29"
+                        },
+                        "caption": "The Porsche 911 Carrera"
+                    }, {
+                        "image": {
+                            "url": "http://link.theplatform.com/s/JStuSC/q_TXS1_Dwa9t?feed=Hackathon%20%28Universal%20Pictures%20EST%29"
+                        },
+                        "caption": "Dom & Brian with the Porsche."
+                    }],
+                    "uuid": "54679429e4b003ee7bdcb2b7",
+                    "objectType": "photogalleries"
+                }
+            }
+        }, {
+            "in": 3911974,
+            "out": 4075871,
+            "rcdbId": "EV4477106",
+            "cardRcdbId": "EX210578",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545ac89fe4b003ee7bdcb079"
+                },
+                "rcdbId": "EX210578",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/34f55b6ad7a8449c9fc95cc64cff4c8d.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "title": "Dom's crew races the cameras",
+                    "uuid": "545ac89fe4b003ee7bdcb079",
+                    "objectType": "photos"
+                }
+            }
+        }, {
+            "in": 4075871,
+            "out": 4206569,
+            "rcdbId": "EV4477113",
+            "cardRcdbId": "EX210585",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545acc23e4b003ee7bdcb07d"
+                },
+                "rcdbId": "EX210585",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Han & Gisele stake out Reyes",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/9ed3032d45074b4b9f22b1ca490fd8cc.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "uuid": "545acc23e4b003ee7bdcb07d",
+                    "objectType": "photos"
+                }
+            }
+        }, {
+            "in": 4149545,
+            "out": 4206569,
+            "rcdbId": "EV4477114",
+            "cardRcdbId": "EX210586",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "media/545acc23e4b003ee7bdcb07e"
+                },
+                "rcdbId": "EX210586",
+                "source": "universal_pictures",
+                "type": "PurchaseMedia",
+                "object": {
+                    "featuredItem": "Desabafo/Deixa Eu Dizer",
+                    "creators": [{
+                        "name": "Marcelo D2 & Claudia"
+                    }],
+                    "title": "Music",
+                    "releaseDate": "2011-04-25",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/38582618c1134454a17247fe3398dcd8.jpg",
+                        "width": 350,
+                        "height": 350,
+                        "type": "JPG"
+                    },
+                    "uuid": "545acc23e4b003ee7bdcb07e",
+                    "objectType": "media"
+                }
+            }
+        }, {
+            "in": 4206569,
+            "out": 4314476,
+            "rcdbId": "EV4477115",
+            "cardRcdbId": "EX210587",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545aceede4b003ee7bdcb081"
+                },
+                "rcdbId": "EX210587",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Dom's team IDs Hobbs",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/2143e7134af14bbf908ff0c51dfc8a91.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "objectType": "photos",
+                    "uuid": "545aceede4b003ee7bdcb081"
+                }
+            }
+        }, {
+            "in": 4314476,
+            "out": 4520315,
+            "rcdbId": "EV4477116",
+            "cardRcdbId": "EX210588",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545aceede4b003ee7bdcb082"
+                },
+                "rcdbId": "EX210588",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Dom & Hobbs face off at the baile",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/f997f4c9bd5940a6ae98ca9fa7361dc4.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "objectType": "photos",
+                    "uuid": "545aceede4b003ee7bdcb082"
+                }
+            }
+        }, {
+            "in": 4385714,
+            "out": 4415714,
+            "rcdbId": "EV4478021",
+            "cardRcdbId": "EX211311",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/546794a4e4b011b65cb31c3a"
+                },
+                "rcdbId": "EX211311",
+                "source": "telemundo",
+                "type": "Photo",
+                "object": {
+                    "title": "Promo Photo",
+                    "caption": "Hobb's team faces off at the baile.",
+                    "image": {
+                        "url": "http://link.theplatform.com/s/JStuSC/9lRf_jYQCLHB?feed=Hackathon%20%28Universal%20Pictures%20EST%29"
+                    },
+                    "objectType": "photos",
+                    "uuid": "546794a4e4b011b65cb31c3a"
+                }
+            }
+        }, {
+            "in": 4404600,
+            "out": 4434600,
+            "rcdbId": "EV4477909",
+            "cardRcdbId": "EX211234",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/5464f752e4b003ee7bdcb257"
+                },
+                "rcdbId": "EX211234",
+                "source": "telemundo",
+                "type": "Photo",
+                "object": {
+                    "title": "Promo Photo",
+                    "caption": "Hobbs' team squares off with Dom's family at the baile.",
+                    "image": {
+                        "url": "http://link.theplatform.com/s/JStuSC/9lRf_jYQCLHB?feed=Hackathon%20%28Universal%20Pictures%20EST%29"
+                    },
+                    "objectType": "photos",
+                    "uuid": "5464f752e4b003ee7bdcb257"
+                }
+            }
+        }, {
+            "in": 4520315,
+            "out": 4705000,
+            "rcdbId": "EV4477119",
+            "cardRcdbId": "EX210591",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545ad093e4b011b65cb319d2"
+                },
+                "rcdbId": "EX210591",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Dom gets his chain back",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/fc7a822bfd0942229d74182105e588e9.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "objectType": "photos",
+                    "uuid": "545ad093e4b011b65cb319d2"
+                }
+            }
+        }, {
+            "in": 4705000,
+            "out": 4735000,
+            "rcdbId": "EV4477120",
+            "cardRcdbId": "EX210592",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "trivia/545ad10ce4b003ee7bdcb084"
+                },
+                "rcdbId": "EX210592",
+                "source": "universal_pictures",
+                "type": "Trivia",
+                "object": {
+                    "title": "Quiz",
+                    "answers": [{
+                        "correct": false,
+                        "text": "2",
+                        "response": "No, 3 times so far"
+                    }, {
+                        "correct": true,
+                        "text": "3",
+                        "response": "Yes!"
+                    }, {
+                        "correct": false,
+                        "text": "4",
+                        "response": "No, 3 times so far"
+                    }],
+                    "question": {
+                        "image": {
+                            "url": "http://d3jubmq7nwu33f.cloudfront.net/images/464cc9535ef44f19a2370de2c14dfd0c.jpg",
+                            "width": 704,
+                            "height": 480,
+                            "type": "JPG"
+                        },
+                        "text": "How many times have we seen the Cristo Redentor so far?"
+                    },
+                    "uuid": "545ad10ce4b003ee7bdcb084",
+                    "objectType": "trivia"
+                }
+            }
+        }, {
+            "in": 4705000,
+            "out": 4955317,
+            "rcdbId": "EV4477118",
+            "cardRcdbId": "EX210590",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545ad093e4b003ee7bdcb083"
+                },
+                "rcdbId": "EX210590",
+                "source": "universal_pictures",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "The million dollar quarter mile",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/c4f60a23c13e4305b674b2f73f084f52.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "uuid": "545ad093e4b003ee7bdcb083",
+                    "objectType": "photos"
+                }
+            }
+        }, {
+            "in": 4845407,
+            "out": 4912040,
+            "rcdbId": "EV4477123",
+            "cardRcdbId": "EX210595",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "media/545ad3a6e4b011b65cb319d5"
+                },
+                "rcdbId": "EX210595",
+                "source": "universal_pictures",
+                "type": "PurchaseMedia",
+                "object": {
+                    "featuredItem": "Million Dollar Race",
+                    "title": "Music",
+                    "releaseDate": "2011-04-25",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/38582618c1134454a17247fe3398dcd8.jpg",
+                        "width": 350,
+                        "height": 350,
+                        "type": "JPG"
+                    },
+                    "creators": [{
+                        "name": "Edu K & Hybrid"
+                    }],
+                    "objectType": "media",
+                    "uuid": "545ad3a6e4b011b65cb319d5"
+                }
+            }
+        }, {
+            "in": 4913642,
+            "out": 4955317,
+            "rcdbId": "EV4477919",
+            "cardRcdbId": "EX211242",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/54650566e4b011b65cb31bea"
+                },
+                "rcdbId": "EX211242",
+                "source": "telemundo",
+                "type": "Photo",
+                "object": {
+                    "title": "Storyboard",
+                    "caption": "See the entire million dollar race scene shot-for -shot in this storybook PDF.",
+                    "image": {
+                        "url": "http://link.theplatform.com/s/JStuSC/or_DJkdbkA3c?feed=Hackathon%20%28Universal%20Pictures%20EST%29"
+                    },
+                    "uuid": "54650566e4b011b65cb31bea",
+                    "objectType": "photos"
+                }
+            }
+        }, {
+            "in": 4955317,
+            "out": 5277839,
+            "rcdbId": "EV4477189",
+            "cardRcdbId": "EX210651",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545bd64ce4b011b65cb319f5"
+                },
+                "rcdbId": "EX210651",
+                "source": "telemundo",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Vince rescues Mia & rejoins the team",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/3e53d0b3cd8747d5890adab64770d0fb.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "objectType": "photos",
+                    "uuid": "545bd64ce4b011b65cb319f5"
+                }
+            }
+        }, {
+            "in": 5277839,
+            "out": 5512540,
+            "rcdbId": "EV4477190",
+            "cardRcdbId": "EX210652",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545bd64ce4b003ee7bdcb0aa"
+                },
+                "rcdbId": "EX210652",
+                "source": "telemundo",
+                "type": "KeyFrame",
+                "object": {
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/ba3b68a7d3bf426f8978b6e04224cd36.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "title": "Hobbs' team raids the warehouse",
+                    "uuid": "545bd64ce4b003ee7bdcb0aa",
+                    "objectType": "photos"
+                }
+            }
+        }, {
+            "in": 5372100,
+            "out": 5402000,
+            "rcdbId": "EV4477191",
+            "cardRcdbId": "EX210653",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "quotes/545bd855e4b011b65cb319f7"
+                },
+                "rcdbId": "EX210653",
+                "source": "telemundo",
+                "type": "TalentQuote",
+                "object": {
+                    "attribution": {
+                        "name": "Chris 'Ludacris' Bridges",
+                        "description": "About the face-off between Hobbs & Dom."
+                    },
+                    "title": "Say What?",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/f403922d6e1b4a239cd26d967ddb0d1d.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "quote": "You have Dwayne 'The Rock' Johnson up against Vin Diesel. There hasn’t been anything this big since King Kong vs. Godzilla. Period.",
+                    "uuid": "545bd855e4b011b65cb319f7",
+                    "objectType": "quotes"
+                }
+            }
+        }, {
+            "in": 5512540,
+            "out": 5760287,
+            "rcdbId": "EV4477192",
+            "cardRcdbId": "EX210654",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545bd9ece4b003ee7bdcb0ad"
+                },
+                "rcdbId": "EX210654",
+                "source": "telemundo",
+                "type": "KeyFrame",
+                "object": {
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/488f21a0b1614128a84373586a218290.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "title": "Hobbs' team is ambushed",
+                    "uuid": "545bd9ece4b003ee7bdcb0ad",
+                    "objectType": "photos"
+                }
+            }
+        }, {
+            "in": 5542470,
+            "out": 5572470,
+            "rcdbId": "EV4478019",
+            "cardRcdbId": "EX211309",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/54679330e4b011b65cb31c38"
+                },
+                "rcdbId": "EX211309",
+                "source": "telemundo",
+                "type": "Photo",
+                "object": {
+                    "title": "Storyboard",
+                    "image": {
+                        "url": "http://link.theplatform.com/s/JStuSC/3sLZjiumw4xL?feed=Hackathon%20%28Universal%20Pictures%20EST%29"
+                    },
+                    "caption": "The ambush scene storyboards.",
+                    "objectType": "photos",
+                    "uuid": "54679330e4b011b65cb31c38"
+                }
+            }
+        }, {
+            "in": 5760287,
+            "out": 5952446,
+            "rcdbId": "EV4477209",
+            "cardRcdbId": "EX210663",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545c0dace4b003ee7bdcb0b6"
+                },
+                "rcdbId": "EX210663",
+                "source": "telemundo",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Aftermath of the ambush",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/20d8c5cfccc04ea8bc32496b06ca6e69.jpg",
+                        "width": 640,
+                        "height": 360,
+                        "type": "JPG"
+                    },
+                    "objectType": "photos",
+                    "uuid": "545c0dace4b003ee7bdcb0b6"
+                }
+            }
+        }, {
+            "in": 5813240,
+            "out": 5843240,
+            "rcdbId": "EV4478022",
+            "cardRcdbId": "EX211312",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photogalleries/546796d4e4b003ee7bdcb2bc"
+                },
+                "rcdbId": "EX211312",
+                "source": "telemundo",
+                "type": "PhotoGallery",
+                "object": {
+                    "title": "The Ladies of Fast 5",
+                    "caption": "Hotter than the cars.",
+                    "photos": [{
+                        "image": {
+                            "url": "http://link.theplatform.com/s/JStuSC/2piPE56afEWL?feed=Hackathon%20%28Universal%20Pictures%20EST%29"
+                        },
+                        "caption": "Elsa Pataky, Jordana Brewster, Gal Gadot"
+                    }, {
+                        "image": {
+                            "url": "http://d3jubmq7nwu33f.cloudfront.net/images/5ac1afdec0e14d718994c447a6b8a33b.jpg",
+                            "width": 1000,
+                            "height": 1500,
+                            "type": "JPG"
+                        },
+                        "caption": "Gal Gadot"
+                    }, {
+                        "image": {
+                            "url": "http://link.theplatform.com/s/JStuSC/83dViEgpw8kd?feed=Hackathon%20%28Universal%20Pictures%20EST%29"
+                        },
+                        "caption": "Elsa Pataky"
+                    }, {
+                        "image": {
+                            "url": "http://link.theplatform.com/s/JStuSC/FLZ9_JHWJJpO?feed=Hackathon%20%28Universal%20Pictures%20EST%29"
+                        },
+                        "caption": "Jordana Brewster"
+                    }],
+                    "objectType": "photogalleries",
+                    "uuid": "546796d4e4b003ee7bdcb2bc"
+                }
+            }
+        }, {
+            "in": 5952446,
+            "out": 6096990,
+            "rcdbId": "EV4477210",
+            "cardRcdbId": "EX210664",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545c0dace4b011b65cb319fe"
+                },
+                "rcdbId": "EX210664",
+                "source": "telemundo",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Dom's crew hits police headquarters",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/b9dd7a1c494547faab1dbeef6bbdf087.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "objectType": "photos",
+                    "uuid": "545c0dace4b011b65cb319fe"
+                }
+            }
+        }, {
+            "in": 6096990,
+            "out": 6484044,
+            "rcdbId": "EV4477208",
+            "cardRcdbId": "EX210662",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545c0dace4b011b65cb319fd"
+                },
+                "rcdbId": "EX210662",
+                "source": "telemundo",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "The chase through Rio",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/27fb2dba282242f98197f8d023b86f89.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "uuid": "545c0dace4b011b65cb319fd",
+                    "objectType": "photos"
+                }
+            }
+        }, {
+            "in": 6137531,
+            "out": 6180000,
+            "rcdbId": "EV4478017",
+            "cardRcdbId": "EX211307",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "quotes/54678c95e4b003ee7bdcb2b6"
+                },
+                "rcdbId": "EX211307",
+                "source": "telemundo",
+                "type": "TalentQuote",
+                "object": {
+                    "attribution": {
+                        "name": "Justin Lin"
+                    },
+                    "title": "Quote",
+                    "image": {
+                        "url": "http://link.theplatform.com/s/JStuSC/28iZ15WC99Lp?feed=Hackathon%20%28Universal%20Pictures%20EST%29"
+                    },
+                    "quote": "I felt like it was important to go to Rio and shoot some critical scenes because the texture, the way\rthat it looks - even the way that the sun interacts with the buildings - are things that you have to have.",
+                    "uuid": "54678c95e4b003ee7bdcb2b6",
+                    "objectType": "quotes"
+                }
+            }
+        }, {
+            "in": 6484044,
+            "out": 6889249,
+            "rcdbId": "EV4477922",
+            "cardRcdbId": "EX211245",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "pointsofinterest/54650a97e4b011b65cb31bee"
+                },
+                "rcdbId": "EX211245",
+                "source": "universal_pictures",
+                "type": "LocalFinder",
+                "object": {
+                    "title": "Where is that?",
+                    "pointsOfInterest": [{
+                        "image": {
+                            "url": "http://d3jubmq7nwu33f.cloudfront.net/images/14cc998688ab43cdb654503c63fce26b.jpg",
+                            "width": 704,
+                            "height": 480,
+                            "type": "JPG"
+                        },
+                        "latitude": "-22.869899",
+                        "name": "Rio–Niterói Bridge",
+                        "longitude": "-43.167056",
+                        "address": "President Costa e Silva Bridge, commonly known as the Rio-Niteroi Bridge, is a box girder bridge crossing Guanabara Bay, in the State of Rio de Janeiro in Brazil. It connects the city of Rio de Janeiro and the municipality of Niterói."
+                    }],
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/14cc998688ab43cdb654503c63fce26b.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "objectType": "pointsofinterest",
+                    "uuid": "54650a97e4b011b65cb31bee"
+                }
+            }
+        }, {
+            "in": 6484044,
+            "out": 6889249,
+            "rcdbId": "EV4477215",
+            "cardRcdbId": "EX210669",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545c12d3e4b011b65cb31a06"
+                },
+                "rcdbId": "EX210669",
+                "source": "telemundo",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Showdown on the bridge",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/cd1832f01e334ac9b80ee2025555d88c.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "uuid": "545c12d3e4b011b65cb31a06",
+                    "objectType": "photos"
+                }
+            }
+        }, {
+            "in": 6592219,
+            "out": 6675902,
+            "rcdbId": "EV4477921",
+            "cardRcdbId": "EX211244",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "media/54650a97e4b003ee7bdcb25a"
+                },
+                "rcdbId": "EX211244",
+                "source": "universal_pictures",
+                "type": "PurchaseMedia",
+                "object": {
+                    "featuredItem": "Showdown on the Rio Niteroi",
+                    "title": "Music",
+                    "releaseDate": "2011-04-26",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/442e11ec9f5f47a2a7322eacf8736d3d.jpg",
+                        "width": 350,
+                        "height": 350,
+                        "type": "JPG"
+                    },
+                    "featuredItemDetail": "from the \"Fast Five\" official score",
+                    "creators": [{
+                        "name": "Bryan Tyler"
+                    }],
+                    "objectType": "media",
+                    "uuid": "54650a97e4b003ee7bdcb25a"
+                }
+            }
+        }, {
+            "in": 6889249,
+            "out": 6964023,
+            "rcdbId": "EV4477214",
+            "cardRcdbId": "EX210668",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545c12d2e4b003ee7bdcb0c3"
+                },
+                "rcdbId": "EX210668",
+                "source": "telemundo",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Cracking the safe",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/648c5c379bb34e04937d492e38aac9c5.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "uuid": "545c12d2e4b003ee7bdcb0c3",
+                    "objectType": "photos"
+                }
+            }
+        }, {
+            "in": 6918678,
+            "out": 7156516,
+            "rcdbId": "EV4477226",
+            "cardRcdbId": "EX210675",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "media/545c18afe4b003ee7bdcb0ca"
+                },
+                "rcdbId": "EX210675",
+                "source": "universal_pictures",
+                "type": "PurchaseMedia",
+                "object": {
+                    "featuredItem": "Danza Kuduro",
+                    "title": "Music",
+                    "releaseDate": "2011-04-25",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/38582618c1134454a17247fe3398dcd8.jpg",
+                        "width": 350,
+                        "height": 350,
+                        "type": "JPG"
+                    },
+                    "creators": [{
+                        "name": "Don Omar feat. Lucenzo"
+                    }],
+                    "objectType": "media",
+                    "uuid": "545c18afe4b003ee7bdcb0ca"
+                }
+            }
+        }, {
+            "in": 6964023,
+            "out": 7154347,
+            "rcdbId": "EV4477227",
+            "cardRcdbId": "EX210676",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545c18afe4b003ee7bdcb0cb"
+                },
+                "rcdbId": "EX210676",
+                "source": "telemundo",
+                "type": "KeyFrame",
+                "object": {
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/fefebb33d1c14dc7b04eadf3e668dd0e.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "title": "Spending the shares",
+                    "objectType": "photos",
+                    "uuid": "545c18afe4b003ee7bdcb0cb"
+                }
+            }
+        }, {
+            "in": 7154347,
+            "out": 7276669,
+            "rcdbId": "EV4477228",
+            "cardRcdbId": "EX210677",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545c18afe4b011b65cb31a10"
+                },
+                "rcdbId": "EX210677",
+                "source": "telemundo",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "The beach house",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/0e743272b3b7417da6495d90999d2723.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "objectType": "photos",
+                    "uuid": "545c18afe4b011b65cb31a10"
+                }
+            }
+        }, {
+            "in": 7276669,
+            "out": 7404096,
+            "rcdbId": "EV4477230",
+            "cardRcdbId": "EX210679",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "media/545c18afe4b011b65cb31a11"
+                },
+                "rcdbId": "EX210679",
+                "source": "universal_pictures",
+                "type": "PurchaseMedia",
+                "object": {
+                    "featuredItem": "How We Roll (Fast Five Remix)",
+                    "releaseDate": "2011-04-25",
+                    "title": "Music",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/38582618c1134454a17247fe3398dcd8.jpg",
+                        "width": 350,
+                        "height": 350,
+                        "type": "JPG"
+                    },
+                    "creators": [{
+                        "name": "Don Omar feat. J-Doe, Reek da Villian & Busta Rhymes"
+                    }],
+                    "objectType": "media",
+                    "uuid": "545c18afe4b011b65cb31a11"
+                }
+            }
+        }, {
+            "in": 7276669,
+            "out": 7404096,
+            "rcdbId": "EV4477229",
+            "cardRcdbId": "EX210678",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545c18afe4b003ee7bdcb0cc"
+                },
+                "rcdbId": "EX210678",
+                "source": "telemundo",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Animation & Credits",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/aa9eb0aa04ec415a8d29e0745460dd69.jpg",
+                        "width": 640,
+                        "height": 360,
+                        "type": "JPG"
+                    },
+                    "objectType": "photos",
+                    "uuid": "545c18afe4b003ee7bdcb0cc"
+                }
+            }
+        }, {
+            "in": 7404096,
+            "out": 7458184,
+            "rcdbId": "EV4477231",
+            "cardRcdbId": "EX210680",
+            "card": {
+                "externalIds": {
+                    "wwCmsPath": "photos/545c18b0e4b003ee7bdcb0cd"
+                },
+                "rcdbId": "EX210680",
+                "source": "telemundo",
+                "type": "KeyFrame",
+                "object": {
+                    "title": "Epilogue",
+                    "image": {
+                        "url": "http://d3jubmq7nwu33f.cloudfront.net/images/1753896adc4848879bf7e69d448fcfcc.jpg",
+                        "width": 704,
+                        "height": 480,
+                        "type": "JPG"
+                    },
+                    "uuid": "545c18b0e4b003ee7bdcb0cd",
+                    "objectType": "photos"
+                }
+            }
+        }]
+    },
+    "channelRcdbId": "CL100131"
+}
