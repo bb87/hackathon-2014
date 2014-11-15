@@ -4,9 +4,20 @@ AmpersandCollection = require 'ampersand-collection'
 
 ImageModel = AmpersandModel.extend
     props:
-        url: ['string', true]
+        uri: ['string', true]
         width: ['number', true]
         height: ['number', true]
+    parse: (attrs)->
+        if attrs.url?
+            attrs.uri = attrs.url
+            delete attrs.url
+        return attrs
+    initialize: (attrs, opts)->
+        if attrs?
+            attrs = @parse attrs
+        AmpersandModel::initialize.call @, [attrs, opts]
+        return @
+
 
 CardObjectModel = AmpersandModel.extend
     props: {
